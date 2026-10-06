@@ -1,4 +1,5 @@
 # convertro
+![convertro demo](images/demo.png)
 
 A simple unit converter for length, weight and temperature.
 
